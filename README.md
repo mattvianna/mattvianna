@@ -8,13 +8,13 @@ Desenvolvedor dedicado com mais de 4 anos na área. Tenho experiência com Javas
 
  <table>
     <tr>
-      <a href="https://www.smiles.com.br/home" target="_blank"><img width=150 src='https://raw.githubusercontent.com/gist/mattvianna/4d9afd865810ab131d4b406efc9bcedb/raw/ab0c741ddfd96668c9033a750abf18599cded24b/smiles.svg'>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</a>
+      <a href="https://www.smiles.com.br/home" target="_blank"><img src='https://raw.githubusercontent.com/gist/mattvianna/4d9afd865810ab131d4b406efc9bcedb/raw/ab0c741ddfd96668c9033a750abf18599cded24b/smiles.svg'>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</a>
     </tr>
     <tr>
-      <a href="https://www.bancolombia.com" target="_blank"><img width=200 src='https://raw.githubusercontent.com/gist/mattvianna/72f0e4659a063e9e213c009882a6830b/raw/0de6576f06973ede27d89ae5d758dcfd1821321e/banco.svg'>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</img></a>
+      <a href="https://www.bancolombia.com" target="_blank"><img src='https://raw.githubusercontent.com/gist/mattvianna/72f0e4659a063e9e213c009882a6830b/raw/0de6576f06973ede27d89ae5d758dcfd1821321e/banco.svg'>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</img></a>
     </tr>
     <tr>
-      <a href="" target="_blank"><img width=150 src='https://raw.githubusercontent.com/gist/mattvianna/4864ea35f4c27fdeac1da5bf6d5d75d0/raw/d02478e89ef6d81d61b6721c23e9059dfc7e661f/anima.svg'></a>
+      <a href="" target="_blank"><img src='https://raw.githubusercontent.com/gist/mattvianna/4864ea35f4c27fdeac1da5bf6d5d75d0/raw/d02478e89ef6d81d61b6721c23e9059dfc7e661f/anima.svg'></a>
     </tr>
   </table>
 
