@@ -1,4 +1,4 @@
-## Oi :v:, eu sou o Matheus.
+## Oi, eu sou o Matheus.
 
 <a href='https://www.linkedin.com/in/mattvianna/'><img align='right' src='https://raw.githubusercontent.com/gist/mattvianna/7a8a5c541e68e54c3a902d6445948cf6/raw/7ae275656ef9553e389267301cb3388f86fd4646/githubcard.svg'/></a>
 
@@ -51,10 +51,7 @@ No grupo Anima atuei nas frentes:
     <img align='left' width='32' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" />
   </tr>
   <tr>
-    <img align='left' width='32' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  </tr>
-  <tr>
-    <img width='32' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+    <img width='32' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   </tr>
 </table>
 
